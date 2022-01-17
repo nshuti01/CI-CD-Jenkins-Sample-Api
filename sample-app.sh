@@ -1,4 +1,4 @@
-#!/bin/bash
+##!/bin/sh
 mkdir tempdir
 mkdir tempdir/templates
 mkdir tempdir/static
